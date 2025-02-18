@@ -2,7 +2,7 @@
 
 This project focuses on classifying breast cancer using multiple machine learning algorithms to compare their performance. The dataset is preprocessed and fed into various classifiers, including Naive Bayes, K-Nearest Neighbors (KNN), Decision Tree, Random Forest, Support Vector Machine (SVM), Logistic Regression, and Artificial Neural Networks (ANN).
 
-# Dataset Info
+## Dataset Info
 The dataset used contains features extracted from breast cancer cell images. These features help in predicting whether a tumor is benign or malignant.
 
 ## Preprocessing
